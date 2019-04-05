@@ -9,7 +9,7 @@ public class Conexion {
 
 	private Connection cnx = null;	
 	
-	public Connection conectar() {
+	public Connection conectar() { 
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
 			cnx = (Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/bidaion_g5","bidaiongrupo5","bidaiong5");
