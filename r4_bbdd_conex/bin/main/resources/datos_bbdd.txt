@@ -1,0 +1,4 @@
+host: localhost
+bd: BiDaiOn_g5
+username: grupo5
+password: grupo5

@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="r4_bbdd_conex/src/main/java"/>
 	<classpathentry kind="src" path="r4_bbdd_conex/src/test/java"/>
 	<classpathentry kind="lib" path="r4_bbdd_conex/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="r4_bbdd_conex/bin/main"/>
 </classpath>
